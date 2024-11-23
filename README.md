@@ -1,4 +1,4 @@
-# Code Error Helper
+# Code Error Helper 
 
 A powerful code analysis and auto-fixing tool powered by AI. This application helps developers identify and fix code issues using OpenAI's GPT-3.5 and Google's Gemini AI.
 
